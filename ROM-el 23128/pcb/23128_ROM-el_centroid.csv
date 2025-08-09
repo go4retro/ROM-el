@@ -1,0 +1,19 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "23256_ROM-el.brd" as of: 12/7/2017 12:52 AM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+14E,Top,0.562,1.163,90
+15E,Top,0.125,1.325,90
+IC1,Top,0.350,0.600,270
+IC2,Top,0.350,0.575,270
+IC4,Top,0.350,0.700,270
+R1,Top,0.575,1.325,90
+R2,Top,0.200,1.325,90
+R3,Top,0.275,1.325,90
+R4,Top,0.500,1.325,90
+R5,Top,0.425,1.325,90
+R6,Top,0.350,1.325,90
